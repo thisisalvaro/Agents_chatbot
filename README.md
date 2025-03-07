@@ -37,7 +37,8 @@ IAenv\Scripts\activate     # En Windows
 ```
 ### 3️⃣ Instalar Dependencias
 
-``` pip install -r requirements.txt 
+``` 
+pip install -r requirements.txt 
 ```
 
 ### 4️⃣ Configurar Variables de Entorno
